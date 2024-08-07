@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divyanshuyadav99/Tooltip/static/css/main.c4ac66bd.css",
+    "main.js": "/divyanshuyadav99/Tooltip/static/js/main.f0e1994d.js",
+    "static/js/453.c9bc4475.chunk.js": "/divyanshuyadav99/Tooltip/static/js/453.c9bc4475.chunk.js",
+    "index.html": "/divyanshuyadav99/Tooltip/index.html",
+    "main.c4ac66bd.css.map": "/divyanshuyadav99/Tooltip/static/css/main.c4ac66bd.css.map",
+    "main.f0e1994d.js.map": "/divyanshuyadav99/Tooltip/static/js/main.f0e1994d.js.map",
+    "453.c9bc4475.chunk.js.map": "/divyanshuyadav99/Tooltip/static/js/453.c9bc4475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ac66bd.css",
+    "static/js/main.f0e1994d.js"
+  ]
+}
